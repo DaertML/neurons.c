@@ -12,11 +12,11 @@ This repository will contain many repos; I am not fluent enough in git to do the
 - llama3.c: https://github.com/jameswdelancey/llama3.c
 
 # Models
-- llama2: ✔️
-- llama3: ✔️
+- llama2: ✔️ llama2.c
+- llama3: ✔️ llama3.c
 - llama3.1: ❌
-- llama3.2: ✔️
-- tinyllama: ✔️
+- llama3.2: ✔️ llama3.c
+- tinyllama: ✔️ tinyllama1.1B.c
 - AMD-LLaMA: ❌
 - Mistral 7B: ❌
 
