@@ -8,6 +8,12 @@ This repository will contain many repos; I am not fluent enough in git to do the
 - llama2.c: https://github.com/karpathy/llama2.c
 - llama3.c: https://github.com/jameswdelancey/llama3.c
 
+# Models
+- llama2: ✔️
+- llama3: ✔️
+- tinyllama: ✔️
+
+
 # Motivation
 A similar motivation of what brought projects like llm.c and llama2.c by Andrej Karpathy. I find the llama.cpp and ggml repos a bit too complex; they implement a whole stack from scratch to be used for many types of models and extend the functionalities.
 
