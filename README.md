@@ -17,7 +17,7 @@ This repository will contain many repos; I am not fluent enough in git to do the
 - llama3.1: ❌
 - llama3.2: ✔️ use folder llama3.c
 - tinyllama: ✔️ use folder tinyllama1.1B.c
-- AMD-LLaMA: ❌
+- AMD-LLaMA: ❓if use llama2.c and export as "--hf" does less rubbish output. Doing llama3.c and exported with "--hf" is rubbish output. Possibly works as expected, and it needs a lot of ICL (In Context Learning).
 - Mistral 7B: ❌
 
 # Motivation
