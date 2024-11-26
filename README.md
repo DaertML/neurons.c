@@ -15,7 +15,7 @@ This repository will contain many repos; I am not fluent enough in git to do the
 - llama2: ✔️
 - llama3: ✔️
 - llama3.1: ❌
-- llama3.2: ❌
+- llama3.2: ✔️
 - tinyllama: ✔️
 - AMD-LLaMA: ❌
 - Mistral 7B: ❌
