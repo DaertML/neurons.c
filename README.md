@@ -1,6 +1,9 @@
 # neurons.c
 Collection of C codes to run different types of neural nets in plain C.
 
+![alt text](image.webp "Fast Neurons in C")
+
+
 # Introduction
 This repository will contain many repos; I am not fluent enough in git to do the merging of forks from other repos into this. I am just looking for a way to improve the ecosystem and organize my local code changes.
 
